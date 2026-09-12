@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "An elegant, multi-mode calculator featuring standard, scientific, programmer, and unit conversion modes with dynamic history and full keyboard integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
